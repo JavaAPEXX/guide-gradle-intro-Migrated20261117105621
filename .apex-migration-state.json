@@ -1,0 +1,7 @@
+{
+  "job_id": "job_6d58e1b41686",
+  "sourceRepoUrl": "https://github.com/OpenLiberty/guide-gradle-intro",
+  "targetJavaVersion": "17",
+  "status": "MIGRATION_CHECKPOINT",
+  "migration_date": ""
+}
